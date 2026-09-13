@@ -1,0 +1,9 @@
+[
+    {
+        "id_producto": 1,
+        "nombre": "Burger",
+        "precio": 12.5,
+        "categoria": "Principal",
+        "stock": 10
+    }
+]
